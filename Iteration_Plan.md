@@ -7,6 +7,7 @@ Iteration 1 (28 Nov 2012)
 * Sound to be represented as near equivalent English symbols i.e. ASCII
   compatible proprietary representation.
 * Learning mode only in this iteration
+* Graphemes to be displayed using images for each grapheme
 * Graphemes supported in this iteration - 
   * vowels
   * simple consonants

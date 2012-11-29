@@ -17,13 +17,18 @@ App details
 1. Learning mode (Teaching mode from App perspective)
 2. Quizzing mode
 
-Sound to be represented as - 
+**Sound** to be represented as - 
 
 * Phonetic representation in English
   * Using proprietary representation (for ASCII compatibility)
   * Using IPA symbols or that used by English dictionaries
 * Using symbols from other phonetic languages in India
 * Using audio clips
+
+How to display **Graphemes**?
+
+* Use images of each grapheme
+* Type with the help of Unicode
 
 How to Quiz 'sound to grapheme' association?  
 
